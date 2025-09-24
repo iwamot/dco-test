@@ -1,2 +1,5 @@
+require:
+  members: false
+
 allowRemediationCommits:
   individual: true
